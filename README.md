@@ -7,3 +7,9 @@ Assignment1
 3. Penggunaan Composable: Kode ini memanfaatkan berbagai komponen Compose seperti container, Column, teks, dan Button untuk membuat antarmuka pengguna yang responsif dan kaya.
 
 4. Penyusunan Gaya: Kode ini menentukan latar belakang, warna teks, dan tata letak elemen-elemen tampilan dengan menggunakan Modifier. Ini memungkinkan penyesuaian gaya tampilan sesuai kebutuhan.
+
+Assignment 3
+1. Mengubah warna latar belakang tampilan
+2. Menambah Navbar pada setiap tampilan
+3. Menambah API
+4. Mengubah bentuk Button dan warna pada button
