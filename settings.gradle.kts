@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "TRPL5b"
 include(":app")
- 
+include(":myapplication")
+include(":myapplication2")

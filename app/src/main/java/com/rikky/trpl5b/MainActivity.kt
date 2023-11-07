@@ -34,7 +34,7 @@ fun ScreenMain() {
             Home(navController = navController)
         }
         composable(Routes.Profile.route) {
-            Profile()
+            Profile(navController = navController)
         }
         composable("${Routes.Setting.route}/{id}") { navBackStack ->
             val counter = navBackStack.arguments?.getString("id")
