@@ -13,3 +13,9 @@ Assignment 3
 2. Menambah Navbar pada setiap tampilan
 3. Menambah API
 4. Mengubah bentuk Button dan warna pada button
+5. Menambah File ListController dan ListModal
+6. 
+![home](https://github.com/Rikky03/RIKKY-RIFALDO-SIMANUNGKALIT-2105181020-TRPL5B/assets/129709311/0323e649-d3a5-4d02-9609-aee73ce47c71)
+![profile](https://github.com/Rikky03/RIKKY-RIFALDO-SIMANUNGKALIT-2105181020-TRPL5B/assets/129709311/959196cc-0ef0-4367-801a-376c9cf0fca3)
+![setting](https://github.com/Rikky03/RIKKY-RIFALDO-SIMANUNGKALIT-2105181020-TRPL5B/assets/129709311/66ad7487-f210-4ebd-9e57-ae25ed10bf7e)
+
